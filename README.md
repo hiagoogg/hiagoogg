@@ -2,11 +2,11 @@
 
 Estudante de Engenharia de Software no 6º período. Explorando novas tecnologias e buscando sempre aprender mais.
 
-## Tecnologias
+## Tecnologias que eu utilizo
 
 [![Minhas tecnologias](https://skillicons.dev/icons?i=html,css,js,py,c,mysql,git,github,figma)](https://skillicons.dev)
 
-Em aprendizado:
+## Em aprendizado:
 
 [![Em aprendizado](https://skillicons.dev/icons?i=nodejs,react,firebase)](https://skillicons.dev)
 
