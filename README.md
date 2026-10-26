@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá, eu sou o Hiago! 👋
 
-<!--
-**hiagoogg/hiagoogg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Engenharia de Software no 6º período. Explorando novas tecnologias e buscando sempre aprender mais.
 
-Here are some ideas to get you started:
+## Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Minhas tecnologias](https://skillicons.dev/icons?i=html,css,js,py,c,mysql,git,github,figma)](https://skillicons.dev)
+
+Em aprendizado:
+
+[![Em aprendizado](https://skillicons.dev/icons?i=nodejs,express,react,firebase)](https://skillicons.dev)
+
+## Contato
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/hiagogg)
+[![E-mail](https://skillicons.dev/icons?i=gmail)](mailto:hiagoliveirasr@gmail.com)
+
+LinkedIn: https://www.linkedin.com/in/hiagogg
+E-mail: hiagoliveirasr@gmail.com
