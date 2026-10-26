@@ -15,5 +15,3 @@ Estudante de Engenharia de Software no 6º período. Explorando novas tecnologia
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/hiagogg)
 [![E-mail](https://skillicons.dev/icons?i=gmail)](mailto:hiagoliveirasr@gmail.com)
 
-https://www.linkedin.com/in/hiagogg
-hiagoliveirasr@gmail.com
