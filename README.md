@@ -8,12 +8,12 @@ Estudante de Engenharia de Software no 6º período. Explorando novas tecnologia
 
 Em aprendizado:
 
-[![Em aprendizado](https://skillicons.dev/icons?i=nodejs,express,react,firebase)](https://skillicons.dev)
+[![Em aprendizado](https://skillicons.dev/icons?i=nodejs,react,firebase)](https://skillicons.dev)
 
 ## Contato
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/hiagogg)
 [![E-mail](https://skillicons.dev/icons?i=gmail)](mailto:hiagoliveirasr@gmail.com)
 
-LinkedIn: https://www.linkedin.com/in/hiagogg
-E-mail: hiagoliveirasr@gmail.com
+https://www.linkedin.com/in/hiagogg
+hiagoliveirasr@gmail.com
